@@ -40,7 +40,3 @@ competitionTabs.addEventListener("click", function(e){
     }
 });
 
-const competitionTabs = documents.querySelector(".competition-tabs");
-competitionTabs.addEventListener("click",function(e){
-    if(e.target.classList.contains("competition-yab-item") && !e.targetclassList)
-})
